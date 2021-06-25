@@ -6,20 +6,26 @@ using System.Threading.Tasks;
 
 namespace BMIProgram
 {
-    class ConsoleDisplay
+    class BMICalulcatorConsoleInputReader
     {
-        public int UserHeight()
+        public int GetUserHeight()
         {
-            Console.WriteLine("Enter your height in meter:");
-            int height = int.Parse(Console.ReadLine());
-            return height;
+           int height = int.Parse((this.ReadFromConsole("Enter your height in meter:"));
+           return height;
         }
 
-        public int UserWeight()
+        public int GetUserWeight()
         {
-            Console.WriteLine("Enter your weight in kg:");
-            int weight = int.Parse(Console.ReadLine());
-            return weight;
+           int weight = int.Parse(this.ParseToInt(this.ReadFromConsole("Enter your weight in kg:"));
+           return weight;
         }
+        private string ReadFromConsole(string message){
+            
+            Console.WriteLine(message);
+            string input =Console.ReadLine();
+            return input;
+        }
+      
+       
     }
 }
