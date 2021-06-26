@@ -1,7 +1,0 @@
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\obj\Debug\CollegeProgram.csprojResolveAssemblyReference.cache
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\obj\Debug\CollegeProgram.csproj.CoreCompileInputs.cache
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\bin\Debug\CollegeProgram.exe.config
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\bin\Debug\CollegeProgram.exe
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\bin\Debug\CollegeProgram.pdb
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\obj\Debug\CollegeProgram.exe
-C:\Users\divyashree.chatra\source\repos\CollegeProgram\CollegeProgram\obj\Debug\CollegeProgram.pdb
