@@ -8,30 +8,9 @@ namespace BMIProgram
 {
     class BMICalculator
     {
-        private int height, weight, result;
-
-        public int SetHeight
-        {
-            set
-            {
-                this.height = value;
-            }
-        }
-        public int SetWeight
-        {
-            set
-            {
-                this.weight = value;
-            }
-        }
-
-        /*  public  BMICalculator(int height,int weight)
-          {
-              this.height = height;
-              this.weight = weight;
-          }
-          */
-        public int CalculateBMIResult()
+        private int result;
+          
+        public int CalculateBMIResult(int height,int weight)
         {
             return result = weight / height;
 

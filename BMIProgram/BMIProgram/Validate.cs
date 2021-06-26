@@ -8,21 +8,22 @@ namespace BMIProgram
 {
     class Validate
     {
-        MessageDisplay obj3 = new MessageDisplay();
-        public void BMIValidate(int bmivalue)
+       
+        public string BMIValidate(int bmivalue)
         {
             if (bmivalue < 18.5)
             {
-                obj3.Underweight();
+                return "Underweight";
             }
-            else if (bmivalue >= 18.5 && bmivalue <= 25)
+            else if (bmivalue >= 25)
             {
-                obj3.Normal();
+                return "OverWeight";
             }
-            else if (bmivalue > 25)
+            else
             {
-                obj3.Overweight();
+                return "Normal";
             }
         }
     }
-}
+  }
+

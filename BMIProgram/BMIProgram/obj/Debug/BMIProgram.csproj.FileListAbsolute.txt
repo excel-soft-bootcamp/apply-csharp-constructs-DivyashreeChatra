@@ -4,3 +4,4 @@ c:\users\divyashree.chatra\source\repos\BMIProgram\BMIProgram\bin\Debug\BMIProgr
 c:\users\divyashree.chatra\source\repos\BMIProgram\BMIProgram\obj\Debug\BMIProgram.csproj.CoreCompileInputs.cache
 c:\users\divyashree.chatra\source\repos\BMIProgram\BMIProgram\obj\Debug\BMIProgram.exe
 c:\users\divyashree.chatra\source\repos\BMIProgram\BMIProgram\obj\Debug\BMIProgram.pdb
+c:\users\divyashree.chatra\source\repos\BMIProgram\BMIProgram\obj\Debug\BMIProgram.csprojResolveAssemblyReference.cache

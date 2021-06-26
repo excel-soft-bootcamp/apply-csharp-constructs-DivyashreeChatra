@@ -10,22 +10,18 @@ namespace BMIProgram
     {
         static void Main(string[] args)
         {
-            ConsoleDisplay display = new ConsoleDisplay();
-            int height = display.UserHeight();
-            int weight = display.UserWeight();
-
+            BMICalulcatorConsoleInputReader display = new BMICalulcatorConsoleInputReader();
+            
             BMICalculator obj = new BMICalculator();
-            obj.SetHeight = height;
-            obj.SetWeight = weight;
-            int result = obj.CalculateBMIResult();
+            int result = obj.CalculateBMIResult(display.GetUserHeight(), display.GetUserWeight());
 
             Validate obj1 = new Validate();
-            obj1.BMIValidate(result);
+            string message = obj1.BMIValidate(result);
 
+            MessageDisplay obj2 = new MessageDisplay();
+            obj2.Display(message);
 
             Console.ReadLine();
-
-
         }
     }
 }

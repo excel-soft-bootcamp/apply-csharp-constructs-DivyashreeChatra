@@ -8,20 +8,11 @@ namespace BMIProgram
 {
     class MessageDisplay
     {
-        public void Underweight()
+      
+        public void Display(string message)
         {
-            Console.WriteLine("Underweight:");
-
-        }
-        public void Normal()
-        {
-            Console.WriteLine("Normal:");
-
-        }
-        public void Overweight()
-        {
-            Console.WriteLine("Overweight:");
-
+          
+            Console.WriteLine(message);
         }
     }
 }
