@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace CollegeProgram
 {
-   
-        class GuestInfo : CollegeInfo
-        {
+        class GuestIDCard : CollegeIDCard
+    {
             private string _employeement_type;
-            public GuestInfo(string name, string id, int phone  , string employeement_type) : base(id, name, phone)
+            public GuestIDCard(string name, string id, string employeement_type) : base(id, name)
             {
                 this._employeement_type = employeement_type;
             }

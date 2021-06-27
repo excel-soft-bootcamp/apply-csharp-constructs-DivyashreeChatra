@@ -42,13 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CollegeInfo.cs" />
-    <Compile Include="GuestInfo.cs" />
-    <Compile Include="LectureInfo.cs" />
+    <Compile Include="CollegeIDCard.cs" />
+    <Compile Include="GuestIDCard.cs" />
+    <Compile Include="LectureIDCard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StaffInfo.cs" />
-    <Compile Include="StudentDetails.cs" />
+    <Compile Include="StaffIDCard.cs" />
+    <Compile Include="StudentIDCard.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

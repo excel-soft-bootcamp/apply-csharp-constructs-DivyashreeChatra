@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace CollegeProgram
 {
    
-        class StaffInfo : CollegeInfo
-        {
+        class StaffIDCard : CollegeIDCard
+    {
             private string _kindOfWork;
-            public StaffInfo(string name, string id, int phone, string department, string kindOfWork) : base(id, name, phone)
+            public StaffIDCard(string name, string id, int phone, string department, string kindOfWork) : base(id, name, phone)
             {
 
                 this._kindOfWork = kindOfWork;
