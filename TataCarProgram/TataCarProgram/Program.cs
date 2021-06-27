@@ -10,15 +10,15 @@ namespace TataCarProgram
     {
         public static void Main(string[] args)
         {
-            TATACar Car = new TATACar(new DiCorEngine());
-            Car.Drive();
-            Car.Halt();
-            TATACar multijetengine = new TATACar(new MultiJetEngine());
-            multijetengine.Drive();
-            multijetengine.Halt();
-            TATACar revorTron = new TATACar(new RevorTron());
-            revorTron.Drive();
-            revorTron.Halt();
+            TATACar _harrier = new TATACar(new DiCorEngine());
+            _harrier.Drive();
+            _harrier.Halt();
+            TATACar _nexon = new TATACar(new MultiJetEngine());
+            _nexon.Drive();
+            _nexon.Halt();
+            TATACar _hexa = new TATACar(new RevorTron());
+            _hexa.Drive();
+            _hexa.Halt();
             Console.ReadLine();
         }
     }
