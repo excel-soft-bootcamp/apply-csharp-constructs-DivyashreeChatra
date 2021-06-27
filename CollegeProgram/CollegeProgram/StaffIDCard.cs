@@ -9,11 +9,11 @@ namespace CollegeProgram
    
         class StaffIDCard : CollegeIDCard
     {
-            private string _kindOfWork;
-            public StaffIDCard(string name, string id, int phone, string department, string kindOfWork) : base(id, name, phone)
+            private string _employeementType;
+            public StaffIDCard(string name, string id, int phone, string department, string employeementType) : base(id, name, phone)
             {
 
-                this._kindOfWork = kindOfWork;
+                this._employeementType = employeementType;
 
             }
         }
