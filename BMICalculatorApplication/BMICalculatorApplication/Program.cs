@@ -11,15 +11,14 @@ namespace BMICalculatorApplication
     {
         static void Main(string[] args)
         {
-            int height= ConsoleDisplayLib.ConsoleDisplayLibType.GetUserHeight();
-            int weight = ConsoleDisplayLib.ConsoleDisplayLibType.GetUserWeight();
+            float height = ConsoleInputReaderLib.ConsoleInputReaderType.GetUserHeight();
+            float weight = ConsoleInputReaderLib.ConsoleInputReaderType.GetUserWeight();
 
-            int result=BMICalculatorLib.BMICalculatorType.CalculateBMIResult(height,weight);
-            string total =ValidateLib.ValidateType.BMIValidate(result);
-           
-            Console.WriteLine(total);
-            Console.WriteLine(result);
-            Console.ReadLine();
+            float bmiValue = BMICalculateLib.CalculateBMIValueType.BmiCalculation(height, weight);
+
+            string message = BMIValueValidateLib.ValidateBMIValueType.ValidateBMIValue(bmiValue);
+
+            ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay(message);
         }
     }
 }

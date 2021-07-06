@@ -1,6 +1,0 @@
-c:\users\divyashree.chatra\source\repos\BMICalculatorLib\BMICalculatorLib\bin\Debug\BMICalculatorLib.dll
-c:\users\divyashree.chatra\source\repos\BMICalculatorLib\BMICalculatorLib\bin\Debug\BMICalculatorLib.pdb
-c:\users\divyashree.chatra\source\repos\BMICalculatorLib\BMICalculatorLib\obj\Debug\BMICalculatorLib.csprojResolveAssemblyReference.cache
-c:\users\divyashree.chatra\source\repos\BMICalculatorLib\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
-c:\users\divyashree.chatra\source\repos\BMICalculatorLib\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
-c:\users\divyashree.chatra\source\repos\BMICalculatorLib\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb
