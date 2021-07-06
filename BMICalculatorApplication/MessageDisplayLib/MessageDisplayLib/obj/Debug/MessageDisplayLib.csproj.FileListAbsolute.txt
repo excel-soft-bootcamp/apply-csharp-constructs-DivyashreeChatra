@@ -1,0 +1,6 @@
+C:\Users\divyashree.chatra\source\repos\MessageDisplayLib\MessageDisplayLib\bin\Debug\MessageDisplayLib.dll
+C:\Users\divyashree.chatra\source\repos\MessageDisplayLib\MessageDisplayLib\bin\Debug\MessageDisplayLib.pdb
+C:\Users\divyashree.chatra\source\repos\MessageDisplayLib\MessageDisplayLib\obj\Debug\MessageDisplayLib.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\source\repos\MessageDisplayLib\MessageDisplayLib\obj\Debug\MessageDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\MessageDisplayLib\MessageDisplayLib\obj\Debug\MessageDisplayLib.dll
+C:\Users\divyashree.chatra\source\repos\MessageDisplayLib\MessageDisplayLib\obj\Debug\MessageDisplayLib.pdb

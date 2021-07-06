@@ -1,0 +1,6 @@
+c:\users\divyashree.chatra\source\repos\ConsoleDisplayLib\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.dll
+c:\users\divyashree.chatra\source\repos\ConsoleDisplayLib\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.pdb
+c:\users\divyashree.chatra\source\repos\ConsoleDisplayLib\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csproj.CoreCompileInputs.cache
+c:\users\divyashree.chatra\source\repos\ConsoleDisplayLib\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.dll
+c:\users\divyashree.chatra\source\repos\ConsoleDisplayLib\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.pdb
+C:\Users\divyashree.chatra\source\repos\ConsoleDisplayLib\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csprojResolveAssemblyReference.cache
