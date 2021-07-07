@@ -11,16 +11,14 @@ namespace ConsoleInputReaderLib
         public static int GetUserHeight()
         {
             ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter your height in meter:");
-            string heightInMeter = Console.ReadLine();
-            int height = int.Parse(heightInMeter);
+            int height = int.Parse(Console.ReadLine());
             return height;
         }
 
         public static int GetUserWeight()
         {
             ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter your weight in kg:");
-            string weightInKG = Console.ReadLine();
-            int weight = int.Parse(weightInKG);
+            int weight = int.Parse(Console.ReadLine());
             return weight;
         }
     }
