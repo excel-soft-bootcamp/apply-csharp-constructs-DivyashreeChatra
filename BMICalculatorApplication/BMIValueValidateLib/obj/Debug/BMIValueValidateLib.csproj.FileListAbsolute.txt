@@ -1,0 +1,11 @@
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMIValueValidateLib\bin\Debug\BMIValueValidateLib.dll
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMIValueValidateLib\bin\Debug\BMIValueValidateLib.pdb
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.dll
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMIValueValidateLib\bin\Debug\BMIValueValidateLib.dll
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMIValueValidateLib\bin\Debug\BMIValueValidateLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.dll
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.csprojResolveAssemblyReference.cache

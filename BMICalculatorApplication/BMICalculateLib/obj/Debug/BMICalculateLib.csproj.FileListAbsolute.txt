@@ -1,0 +1,11 @@
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculateLib\bin\Debug\BMICalculateLib.dll
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculateLib\bin\Debug\BMICalculateLib.pdb
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculateLib\obj\Debug\BMICalculateLib.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculateLib\obj\Debug\BMICalculateLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculateLib\obj\Debug\BMICalculateLib.dll
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculateLib\obj\Debug\BMICalculateLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculateLib\bin\Debug\BMICalculateLib.dll
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculateLib\bin\Debug\BMICalculateLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculateLib\obj\Debug\BMICalculateLib.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculateLib\obj\Debug\BMICalculateLib.dll
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculateLib\obj\Debug\BMICalculateLib.pdb

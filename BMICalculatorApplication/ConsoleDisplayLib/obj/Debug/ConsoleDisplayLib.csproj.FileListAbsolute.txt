@@ -1,0 +1,10 @@
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.dll
+C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.dll
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.pdb
