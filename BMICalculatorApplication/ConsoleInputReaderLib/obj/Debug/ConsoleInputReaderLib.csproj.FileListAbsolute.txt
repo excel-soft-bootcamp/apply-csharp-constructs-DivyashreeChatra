@@ -6,6 +6,7 @@ C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\B
 C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.csproj.CoreCompileInputs.cache
 C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.dll
 C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.pdb
+<<<<<<< HEAD
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputReaderLib\bin\Debug\ConsoleInputReaderLib.dll
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputReaderLib\bin\Debug\ConsoleInputReaderLib.pdb
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputReaderLib\bin\Debug\ConsoleDisplayLib.dll
@@ -14,3 +15,5 @@ C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputRe
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.csproj.CoreCompileInputs.cache
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.dll
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.pdb
+=======
+>>>>>>> 776ea994ab75d05e8a74e3118bdd09b321e5df4c

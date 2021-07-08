@@ -26,6 +26,7 @@ C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\B
 C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculatorApplication\bin\Debug\BMIValueValidateLib.pdb
 C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculatorApplication\bin\Debug\ConsoleDisplayLib.pdb
 C:\Users\navyashrees\Documents\GitHub\apply-csharp-constructs-DivyashreeChatra\BMICalculatorApplication\BMICalculatorApplication\bin\Debug\ConsoleInputReaderLib.pdb
+<<<<<<< HEAD
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorApplication\bin\Debug\BMICalculatorApplication.exe.config
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorApplication\bin\Debug\BMICalculatorApplication.exe
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorApplication\bin\Debug\BMICalculatorApplication.pdb
@@ -41,3 +42,5 @@ C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorA
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorApplication\obj\Debug\BMICalculatorApplication.csproj.CoreCompileInputs.cache
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorApplication\obj\Debug\BMICalculatorApplication.exe
 C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication1\BMICalculatorApplication\obj\Debug\BMICalculatorApplication.pdb
+=======
+>>>>>>> 776ea994ab75d05e8a74e3118bdd09b321e5df4c
