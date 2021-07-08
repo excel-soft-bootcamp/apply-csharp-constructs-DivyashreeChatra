@@ -59,14 +59,6 @@ namespace BMICalculatorApplication
                 
             }
 
-            float height = ConsoleInputReaderLib.ConsoleInputReaderType.GetUserHeight();
-            float weight = ConsoleInputReaderLib.ConsoleInputReaderType.GetUserWeight();
-
-            float bmiValue = BMICalculateLib.CalculateBMIValueType.BmiCalculation(height, weight);
-
-            string message = BMIValueValidateLib.ValidateBMIValueType.ValidateBMIValue(bmiValue);
-
-            ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay(message);
 
         }
         
