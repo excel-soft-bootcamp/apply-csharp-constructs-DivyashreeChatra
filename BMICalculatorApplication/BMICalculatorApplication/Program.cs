@@ -17,7 +17,7 @@ namespace BMICalculatorApplication
         }
         public static void Main(string[] args)
         {
-<<<<<<< HEAD
+
             ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter Your Choice");
 
             do
@@ -58,16 +58,8 @@ namespace BMICalculatorApplication
                 ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter The File Path");
                 
             }
-=======
-            float height = ConsoleInputReaderLib.ConsoleInputReaderType.GetUserHeight();
-            float weight = ConsoleInputReaderLib.ConsoleInputReaderType.GetUserWeight();
 
-            float bmiValue = BMICalculateLib.CalculateBMIValueType.BmiCalculation(height, weight);
 
-            string message = BMIValueValidateLib.ValidateBMIValueType.ValidateBMIValue(bmiValue);
-
-            ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay(message);
->>>>>>> 776ea994ab75d05e8a74e3118bdd09b321e5df4c
         }
         
     }
