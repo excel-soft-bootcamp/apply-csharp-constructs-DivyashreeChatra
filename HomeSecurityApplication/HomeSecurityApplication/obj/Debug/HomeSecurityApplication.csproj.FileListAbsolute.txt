@@ -1,0 +1,7 @@
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\bin\Debug\HomeSecurityApplication.exe.config
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\bin\Debug\HomeSecurityApplication.exe
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\bin\Debug\HomeSecurityApplication.pdb
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\obj\Debug\HomeSecurityApplication.csprojResolveAssemblyReference.cache
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\obj\Debug\HomeSecurityApplication.csproj.CoreCompileInputs.cache
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\obj\Debug\HomeSecurityApplication.exe
+c:\users\divyashree.chatra\source\repos\HomeSecurityApplication\HomeSecurityApplication\obj\Debug\HomeSecurityApplication.pdb
