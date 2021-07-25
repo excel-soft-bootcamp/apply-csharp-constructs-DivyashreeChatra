@@ -1,0 +1,2 @@
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication\InputFileReaderLib\obj\Debug\InputFileReaderLib.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\source\repos\BMICalculatorApplication\InputFileReaderLib\obj\Debug\InputFileReaderLib.csproj.CoreCompileInputs.cache

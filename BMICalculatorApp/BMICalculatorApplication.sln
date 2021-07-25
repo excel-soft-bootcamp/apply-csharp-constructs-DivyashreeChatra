@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculatorApplication", "BMICalculatorApplication\BMICalculatorApplication.csproj", "{027DE234-8AD4-4F59-B5D8-11B06A3DE9DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculateLib", "BMICalculateLib\BMICalculateLib.csproj", "{6C14A7B5-3DD6-44F0-8D52-A368965ADCAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIValueValidateLib", "BMIValueValidateLib\BMIValueValidateLib.csproj", "{71A91376-3453-4896-B0BF-41ED219F78FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDisplayLib", "ConsoleDisplayLib\ConsoleDisplayLib.csproj", "{D730CB6D-0C59-439F-ADC6-DE537B23FA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInputReaderLib", "ConsoleInputReaderLib\ConsoleInputReaderLib.csproj", "{A0E08F04-77D1-4413-B4B3-FD868A38B26B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputFileReaderLib", "InputFileReaderLib\InputFileReaderLib.csproj", "{258AE5BB-3AA0-47F1-8BCE-966256C70DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027DE234-8AD4-4F59-B5D8-11B06A3DE9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027DE234-8AD4-4F59-B5D8-11B06A3DE9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027DE234-8AD4-4F59-B5D8-11B06A3DE9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027DE234-8AD4-4F59-B5D8-11B06A3DE9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C14A7B5-3DD6-44F0-8D52-A368965ADCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C14A7B5-3DD6-44F0-8D52-A368965ADCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C14A7B5-3DD6-44F0-8D52-A368965ADCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C14A7B5-3DD6-44F0-8D52-A368965ADCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A91376-3453-4896-B0BF-41ED219F78FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A91376-3453-4896-B0BF-41ED219F78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A91376-3453-4896-B0BF-41ED219F78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A91376-3453-4896-B0BF-41ED219F78FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D730CB6D-0C59-439F-ADC6-DE537B23FA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D730CB6D-0C59-439F-ADC6-DE537B23FA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D730CB6D-0C59-439F-ADC6-DE537B23FA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D730CB6D-0C59-439F-ADC6-DE537B23FA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E08F04-77D1-4413-B4B3-FD868A38B26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E08F04-77D1-4413-B4B3-FD868A38B26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E08F04-77D1-4413-B4B3-FD868A38B26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E08F04-77D1-4413-B4B3-FD868A38B26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258AE5BB-3AA0-47F1-8BCE-966256C70DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258AE5BB-3AA0-47F1-8BCE-966256C70DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258AE5BB-3AA0-47F1-8BCE-966256C70DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258AE5BB-3AA0-47F1-8BCE-966256C70DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E12F11B-11A5-4F48-BFE2-D7ADECA04026}
+	EndGlobalSection
+EndGlobal

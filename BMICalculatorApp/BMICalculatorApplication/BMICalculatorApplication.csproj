@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{027DE234-8AD4-4F59-B5D8-11B06A3DE9DF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>BMICalculatorApplication</RootNamespace>
+    <AssemblyName>BMICalculatorApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BMICalculateLib\BMICalculateLib.csproj">
+      <Project>{6c14a7b5-3dd6-44f0-8d52-a368965adcad}</Project>
+      <Name>BMICalculateLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BMIValueValidateLib\BMIValueValidateLib.csproj">
+      <Project>{71a91376-3453-4896-b0bf-41ed219f78fd}</Project>
+      <Name>BMIValueValidateLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleDisplayLib\ConsoleDisplayLib.csproj">
+      <Project>{d730cb6d-0c59-439f-adc6-de537b23fa71}</Project>
+      <Name>ConsoleDisplayLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleInputReaderLib\ConsoleInputReaderLib.csproj">
+      <Project>{a0e08f04-77d1-4413-b4b3-fd868a38b26b}</Project>
+      <Name>ConsoleInputReaderLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InputFileReaderLib\InputFileReaderLib.csproj">
+      <Project>{258ae5bb-3aa0-47f1-8bce-966256c70dce}</Project>
+      <Name>InputFileReaderLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
